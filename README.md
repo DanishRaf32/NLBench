@@ -1,4 +1,4 @@
-# NLBench
+# Nonlinear Benchmark Models (NLBench)
 ## Collection of Large Scale Models for Testing Nonlinear Model Order Reduction Techniques
 This repository provides a collection of sixteen large-scale benchmark nonlinear state-space models. The models are written in MATLAB and scalable in spatiotemporal degrees of freedom. The aim is to provide the active research community with a suite of high-dimensional nonlinear models to test the state-of-the-art nonlinear model reduction strategies. 
 
